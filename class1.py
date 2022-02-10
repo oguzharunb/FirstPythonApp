@@ -1,6 +1,0 @@
-class student(object):
-    pass
-
-
-
-
